@@ -1,0 +1,51 @@
+
+
+
+.side-by-side {
+
+	width:45%
+	float:left;
+	margin: 2.5%;
+}
+
+
+
+
+h3 {
+	font-weight:500;
+}
+
+
+
+ ul,ol  {
+	font-weight:300;
+ }
+
+ol{ 
+	border: 1px solid red;
+	border-radius: 15px;
+	padding: 10px;
+
+
+	list-style-position: inside;
+}
+
+ul {
+	border: dashed red;
+	border-radius: 15px;
+	padding: 10px;
+	list-style-type: upper-roman;
+	list-style-position: inside;
+}
+
+
+a:hover {
+
+.bottom-div
+	float: right;
+	margin-bottom: 20px; 
+	width: 100%;
+
+
+
+}
