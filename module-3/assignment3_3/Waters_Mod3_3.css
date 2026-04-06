@@ -21,21 +21,23 @@ h3 {
 	font-weight:300;
  }
 
-ol{ 
+.list-container-Left{ 
 	border: 1px solid red;
 	border-radius: 15px;
 	padding: 10px;
+	width: fit content;
 
 
 	list-style-position: inside;
 }
 
-ul {
+.list-container-Right {
 	border: dashed red;
 	border-radius: 15px;
 	padding: 10px;
 	list-style-type: upper-roman;
 	list-style-position: inside;
+	width: fit content;
 }
 
 
