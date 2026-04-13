@@ -1,0 +1,52 @@
+h1{ text-align: center;
+	color: #000000
+}
+
+#container{
+	width:100%;
+}
+
+#image-gallery{
+	display: grid;
+	grid-template-columns: repeat(3,1fr);
+	gap: 0px;
+	margin-top:10%;
+	
+}
+
+.gallery-item{
+	text-align: center;
+	border: 1px solid #DC143C;
+	padding: 10px;
+}
+
+.gallery-item img{
+	max-width: 100%;
+	height:auto;
+	display:block;
+	margin: 0 auto
+	
+
+}
+
+h3{
+	text-align:center;
+	color: #FFA500;
+
+
+
+}
+figure{	
+	text-align: center;
+}
+
+figcaption{
+font-style: italic;
+font-size: .75em;
+color: #003B6F;
+}
+
+.footer-link{
+	margin-top:20 px;
+	text-align: right;
+}
