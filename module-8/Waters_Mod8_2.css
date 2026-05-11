@@ -100,3 +100,26 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+
+#movies{border-collapse: collapse;
+	width: 100%;
+	margin-bottom: 30px;}
+
+#movies td{border:1px solid #black;
+			padding: 8px;}
+
+#movies th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+}
+
+footer {position: fixed;
+	left:0;}
+
+.container{margin: 2% 5% 100px 5%;}
+
+
+
+th{background:#c00000;
+	color:white;}
