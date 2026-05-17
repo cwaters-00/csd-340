@@ -1,0 +1,15 @@
+header{background-color: #00733e;}
+
+#navbar{
+background-image: url("C:\csd\csd-340\my_Biosite\images\spalted_maple2.jpg");
+
+background-position: center;
+justify content:left;
+}
+
+#navbar li{display: inline-block;
+margin right: 10px;
+}
+
+#navbar ul{list-style-type: none;
+padding: 0;}
